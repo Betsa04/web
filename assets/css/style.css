@@ -1,0 +1,358 @@
+body{
+    padding: 0px;
+    margin: 100px;
+}
+
+#nav-bar{
+    margin-left: 800px;
+}
+#home{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#home1{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#home2{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#home3{
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+
+#home4
+{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;   
+}
+
+#home5
+{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;   
+}
+
+#about{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#about1{
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+#about2{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#about3{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;}
+
+
+#about4
+{ background-color: mediumblue;
+    box-shadow: 3px 3px;}
+
+#about5
+{ background-color: mediumblue;
+    box-shadow: 3px 3px;}
+
+#contact{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#contact1{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#contact2{
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+#contact3{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+
+#contact4{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+
+#contact5{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#reglas{
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+#reglas1{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#reglas2{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#reglas3{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+
+#reglas4 {
+
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+
+#reglas5 {
+
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+
+#Juegos{
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+#Juegos1{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#Juegos2{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#Juegos3{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+
+#Juegos4 {
+
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+#Juegos5 {
+
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+
+#Formulario{
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+#Formulario1{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#Formulario2{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#Formulario3{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+
+#Formulario4 {
+
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#Formulario5{
+
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+
+#nav-bar{
+    margin-left: 950px;
+}
+
+.contedenor{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+}
+img{
+    width: 100%;
+    padding: 4px;
+    height: 290px;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-style: inherit;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    font-style: normal;
+}
+
+h3{
+    color: black;
+    margin-left: 100px;
+}
+
+#p10{
+    color: black;
+    text-align: center;
+    top: 0%;
+}
+
+#p9{
+
+    text-align: justify;
+    color: black;
+    margin-left: 230px;
+    margin-right: 330px;
+    list-style-type: square;
+}
+
+
+
+.p1{
+    font-weight: bold;
+}
+#h31{
+    color: black;
+    font-weight: bold;
+    margin-left: 100px;
+
+}
+#texto1{
+    text-align: justify;
+    color: black;
+    margin-left: 230px;
+    margin-right: 330px;
+    list-style-type: square;
+}
+li{
+    color: black;
+    margin-left: 230px;
+    margin-right: 330px;
+    text-align: justify;
+    
+}
+#letra{
+    list-style-type: lower-alpha;
+    color: black;
+    text-align: justify;
+}
+#tx2{
+    color: black;
+}
+#texto2{
+    text-align: justify;
+    color: black;
+    margin-left: 230px;
+    margin-right: 330px;
+    list-style-type: circle;
+
+}
+.logo{
+    position:absolute;
+    top: 75%;
+    height: 130px;
+    width: 130px;
+}
+#parrafo{
+    color: black;
+    margin-left: 130px;
+    text-align: justify;
+    }
+
+    h4{
+        background-color: #ffffff;
+        color: black;
+        text-align: center;
+        border-style: solid;
+        border-color: black;
+        width: 100%;
+    }
+
+    #titulo{
+        margin-left: 100px;
+        color: black;
+        text-align: justify;
+        }
+
+        #texto{
+            
+            float :right;
+            display: inline;
+        }
+
+#p5
+
+{
+margin-left: 260px;
+text-align: justify;
+color: black;
+ 
+
+}
+
+.tabla,td,th,tr {
+
+margin: auto;
+    border: 3px solid black;
+    color: black;
+    font-size: 10px;
+    border-collapse: collapse;
+    padding: 15px;
+    }
+
+#texto3{
+
+    margin-left: 250px;
+    text-align: left;
+    color: black;
+}
+
+.logo2{
+    position:absolute;
+    top: 60%;
+    height: 130px;
+    width: 130px;
+
+}
+
+.logo3{
+    position:absolute;
+    top: 60%;
+    height: 130px;
+    width: 130px;
+
+}
+
+#permiso{
+    color: black;
+    text-align: justify;
+}
+
+#txt{
+
+    margin-left: 230px;
+    text-align: left;
+    color: black;
+}
+
+.mapas{
+text-align: center;
+padding: 0px;
+top: 0%;
+margin:center
+}
+
+
+
+
